@@ -23,7 +23,7 @@
 
 - 🎓 I'm pursuing Master's in Computer Applications(MCA) From **National Institute of Technology , Warangal**.
 - 📄 Know about my experiences [My Resume](https://github.com/monikagour1/monikagour1/blob/main/resume.pdf)
-- 👨‍💻 All of my projects are available at [portfolio](https://shimmering-gnome-957dfa.netlify.app/.
+- 👨‍💻 All of my projects are available at [portfolio](https://shimmering-gnome-957dfa.netlify.app/).
 - 📫 How to reach me **monikagour084@gmail.com**.
 
 
