@@ -1,6 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Monika Gour</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=monikagour1&label=Profile%20views&color=0e75b6&style=flat" alt="monikagour1" /> </p>
+
 <h3 align="center">A passionate Web developer from India</h3>
 
 <hr/>
@@ -21,20 +23,14 @@
 
 - 🎓 I'm pursuing Master's in Computer Applications(MCA) From **National Institute of Technology , Warangal**.
 - 📄 Know about my experiences [My Resume](https://github.com/monikagour1/monikagour1/blob/main/resume.pdf)
+- 👨‍💻 All of my projects are available at [portfolio](https://shimmering-gnome-957dfa.netlify.app/.
+- 📫 How to reach me **monikagour084@gmail.com**.
+
 
 <hr/>
-
-
 <img align="right" alt="coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monikagour1&label=Profile%20views&color=0e75b6&style=flat" alt="monikagour1" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [portfolio](https://shimmering-gnome-957dfa.netlify.app/)
-
-- 📫 How to reach me **monikagour084@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/monikagour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monikagour" height="30" width="40" /></a>
