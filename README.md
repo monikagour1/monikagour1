@@ -20,7 +20,7 @@
 <h2 id="about-me"> :pencil: About Me</h2>
 
 - 🎓 I'm pursuing Master's in Computer Applications(MCA) From **National Institute of Technology , Warangal**.
-- 📄 Know about my experiences [My Resume]()
+- 📄 Know about my experiences [My Resume](https://github.com/monikagour1/monikagour1/blob/main/resume.pdf)
 
 <hr/>
 
