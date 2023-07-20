@@ -4,6 +4,14 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <hr/>
+<p align="center">
+    👋 Hi, my name is Monika Gour, from Harda, MP, India. <br />
+    I am an Postgraduate 🎓 from <a href="https://www.nitw.ac.in/">NIT Warangal</a>. 
+    I am a Web developer & Programmer who loves to write clean and efficient code. <br/>
+    Apart from web development I love Problem Solving with use of Data Structures and Algorithms in Efficient Way.
+</p>
+
+<hr/>
 <details>
 <summary align="center"><h3 style="display: inline;">More About Me ⬇️ </h3></summary>
 <hr/>
